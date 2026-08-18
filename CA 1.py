@@ -87,7 +87,14 @@ print("~a     :", ~a)       # NOT
 print("a << 1 :", a << 1)   # Left shift
 print("a >> 1 :", a >> 1)   # Right shift
 
+#Identity Operators
+print("Identity Operators")
+print(a is not b)
+print(a is b)
 
+#Membership operators
+print("Membership operators")
+print("a" in "apple")
 
 
 
