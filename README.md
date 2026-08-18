@@ -1,0 +1,35 @@
+Aim: to demonstrate the basic operations of python language
+
+Algorithm:
+Start the program.
+Declare and initialize variables for name, age, and height, and display their values.
+Take the user's name and a number as input and display the entered values.
+Initialize two numbers, a = 10 and b = 3.
+Perform and display the results of arithmetic operations:
+Addition
+Subtraction
+Multiplication
+Division
+Floor division
+Modulus
+Exponentiation
+Perform comparison operations between a and b:
+Equal to
+Not equal to
+Greater than
+Less than
+Greater than or equal to
+Less than or equal to
+Initialize x = 10 and demonstrate logical operators and, or, and not.
+Demonstrate assignment operators by successively applying +=, -=, *=, /=, //=, %=, and **=.
+Demonstrate bitwise operators using a and b:
+Bitwise AND
+Bitwise OR
+Bitwise XOR
+Bitwise NOT
+Left shift
+Right shift
+Demonstrate identity operators is and is not using a and b.
+Demonstrate the membership operator in by checking whether "a" exists in the string "apple".
+Display all the results.
+Stop the program.
